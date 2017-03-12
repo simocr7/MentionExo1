@@ -1,0 +1,4 @@
+services:
+#    simomanchester.example:
+#        class: simo\manchesterBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
